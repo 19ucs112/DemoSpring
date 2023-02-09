@@ -1,7 +1,0 @@
-spring:
-  datasource:
-    url:
-    user:
-    password:
-  hibernate:
-    ddl-auto:
